@@ -14,7 +14,7 @@
   to = "/favicon.ico"
   status = 200
 
-# Route all requests through SSR function; static assets are handled by the handler
+# Catch-all: render via SSR function
 [[redirects]]
   from = "/*"
   to = "/.netlify/functions/server"

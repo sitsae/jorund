@@ -1,9 +1,10 @@
 [build]
   command = "npm run build"
   publish = "build/client"
+  functions = "netlify/functions"
 
-# Ensure SPA client-side routing works on direct links/refresh
+# Route all requests through SSR function; static assets are handled by the handler
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/.netlify/functions/server"
   status = 200

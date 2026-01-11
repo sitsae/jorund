@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "build/client"
+
+# Ensure SPA client-side routing works on direct links/refresh
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

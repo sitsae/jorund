@@ -4,9 +4,9 @@ export default [
   index("routes/home.tsx"),
   route("innhold", "routes/innhold.tsx", [
     index("routes/meny.tsx"),
-    route("om", "routes/om.tsx"),
-    route("kontakt", "routes/kontakt.tsx"),
-    route("erfaring", "routes/erfaring.tsx"),
-    route("utdanning", "routes/utdanning.tsx"),
+    route("personlig", "routes/personlig.tsx"),
+    route("profesjonelt", "routes/profesjonelt.tsx"),
+    route("bidrag", "routes/bidrag.tsx"),
+    route("motivasjon", "routes/motivasjon.tsx"),
   ]),
 ] satisfies RouteConfig;

@@ -27,7 +27,7 @@ export default function Velkommen() {
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           {/* Left - Text Section */}
           <div className="space-y-4">
-            <h2 className="text-3xl font-bold mb-6">Om Oss</h2>
+            <h2 className="text-3xl font-bold mb-6">Om meg</h2>
             <p className="text-xl leading-relaxed">
               På denne nettsiden får du god og tydelig informasjon om Jørund
               Knudsen Midtgarden.

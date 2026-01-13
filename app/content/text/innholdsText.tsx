@@ -30,7 +30,7 @@ const innholdsText: InnholdsTextMap = {
   bidragIStillingen: {
     heading: "Hva kan jeg bidra med i stillingen?",
     paragraph: [
-      "Erfaring fra nav og bhg",
+      "Erfaring fra nav, Embo og barnehage",
       "God til å bygge relasjon og tilitt tidleg",
       "Ikkje redd for å stille spørsmål eller krav til samarbeidapartnere",
       "Stor arbeidskapasitet og liker godt å jobbe i team",

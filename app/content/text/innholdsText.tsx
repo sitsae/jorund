@@ -18,21 +18,18 @@ const innholdsText: InnholdsTextMap = {
   hvemErJegProfesjonelt: {
     heading: "Hvem er jeg profesjonelt",
     paragraph: [
-      "Fortelling fra Uganda",
-      "Fyste meiningsfulle jobb",
       "Mennesker med spesielle behov",
-      "Skape eit eget bilde",
       "Rett hjelp til rett tid",
-
-      "Samarbeide og kommunikasjon på tvers av sektorer",
+      "Samarbeid og kommunikasjon på tvers av sektorer",
+      "Tålmodig",
+      "Selvstendig og strukturert",
     ],
   },
   bidragIStillingen: {
     heading: "Hva kan jeg bidra med i stillingen?",
     paragraph: [
-      "Erfaring fra nav, Embo og barnehage",
+      "Relevant erfaring og kompetanse",
       "God til å bygge relasjon og tilitt tidleg",
-      "Ikkje redd for å stille spørsmål eller krav til samarbeidapartnere",
       "Stor arbeidskapasitet og liker godt å jobbe i team",
       "Er positiv og liker å ha det gøy på jobb",
       "Liker ein variert og hektisk kvardag og får motivasjon av å kunne hjelpe andre mennesker",
